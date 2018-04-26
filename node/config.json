@@ -1,0 +1,7 @@
+{
+    "SECRET" : "",
+    "CROWDSALE_CONTRACT_ADDR" : "",
+    "WEB3_PROVIDER" : "http://localhost:9545",
+    "PORT" : 3000,
+    "HOST" : "localhost"
+}
